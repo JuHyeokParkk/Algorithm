@@ -1,8 +1,8 @@
 초보의 github 명령어
 
-git init
+git init (처음에 1번만)
 git add . / git add filename
 git commit -m "message"
-git remote add origin http~
+git remote add origin http~ (처음에 1번만)
 git push origin master / git push -u origin master (-u가 뭐지)
 git status
