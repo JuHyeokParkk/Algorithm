@@ -6,3 +6,6 @@ git commit -m "message"
 git remote add origin http~ (처음에 1번만)
 git push origin master / git push -u origin master (-u가 뭐지)
 git status
+
+강제 push 
+=> git push -u origin +master
