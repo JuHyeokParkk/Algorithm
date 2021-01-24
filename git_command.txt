@@ -1,7 +1,7 @@
 초보의 github 명령어
 
 git init (처음에 1번만)
-git add . / git add filename
+git add . / git add filename (파일 경로까지도 쓰는듯 .. git status 했을 때 빨간글씨 그대로)
 git commit -m "message"
 git remote add origin http~ (처음에 1번만)
 git push origin master / git push -u origin master (-u가 뭐지)
@@ -9,3 +9,5 @@ git status
 
 강제 push 
 => git push -u origin +master
+
+혹시 파일명에 공백 들어가면 안되는건가 ?
